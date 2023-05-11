@@ -1,0 +1,13 @@
+Whatsapp
+
+login
+
+chat
+
+call
+
+videocall
+
+voicemessage
+
+
